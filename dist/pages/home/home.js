@@ -1,0 +1,1 @@
+import{j as e}from"../../js/index.js";function s(){return e.jsxs("div",{className:"HOME",children:[e.jsx("h1",{children:"Home"}),e.jsx("p",{children:"Welcome to the home page"})]})}export{s as default};
